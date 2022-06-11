@@ -2,10 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Hero Section */
+/* Gran Artista */
 
-#Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+#Gran-Artista {
+  background-image: url("../img/gran-artista.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
